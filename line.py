@@ -1,6 +1,6 @@
 def line():
-    A=float(input("Ingrese el coeficiente A: "))
-    B=float(input("Ingrese el coeficiente B: "))
+	A=float(input("Ingrese el coeficiente A: "))
+	B=float(input("Ingrese el coeficiente B: "))
 	X1=float(input("Ingrese el coeficiente X1: "))
 	X2=float(input("Ingrese el coeficiente X2: "))
 	print(f"El coeficiente A de su ecuación de la recta es: {A}")
